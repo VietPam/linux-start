@@ -6,10 +6,12 @@ This repository store my Linux setup notes and useful commands
 
 ## Useful command
 
-sudo apt update
-sudo apt upgrade
+- sudo apt update
+- sudo apt upgrade
 
-mkdir create-new-folder
-touch file.extension
-nano file.extension : open and edit it
-Ctrl + O -> Enter -> Ctrl + X : save in nano
+- mkdir create-new-folder
+- touch file.extension
+- nano file.extension : open and edit it
+- Ctrl + O -> Enter -> Ctrl + X : save in nano
+
+if you need to install App like visual studio code, go to app center and download
